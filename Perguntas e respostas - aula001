@@ -1,0 +1,8 @@
+    Qual o método utilizado para verificar o menor número?
+     - Math.max();
+    Qual o método utilizado para verificar o maior número?
+     - Math.min();
+    Qual o método utilizado para realizar operação de potênciação?
+     - Math.pow(double a, double b);
+    O que faz o método floor?
+     - Arredonda um double para baixo
