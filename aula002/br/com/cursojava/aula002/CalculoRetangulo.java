@@ -22,6 +22,6 @@ public class CalculoRetangulo {
 	}
 	
 	public static void main(String[] args) {
-		CalculoRetangulo c = new CalculoRetangulo();
+		new CalculoRetangulo();
 	}
 }

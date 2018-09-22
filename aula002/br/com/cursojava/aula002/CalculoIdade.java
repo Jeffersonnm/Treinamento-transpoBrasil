@@ -27,7 +27,6 @@ public class CalculoIdade {
 	}
 	
 	public static void main(String[] args) {
-
-		CalculoIdade c = new CalculoIdade();
+		new CalculoIdade();
 	}
 }

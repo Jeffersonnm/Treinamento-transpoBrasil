@@ -16,6 +16,6 @@ public class CalcularPerimetroDeQuadrado {
 	}
 	
 	public static void main(String[] args) {
-		CalcularPerimetroDeQuadrado c = new CalcularPerimetroDeQuadrado();
+		new CalcularPerimetroDeQuadrado();
 	}
 }

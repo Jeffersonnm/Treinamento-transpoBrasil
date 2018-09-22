@@ -22,7 +22,7 @@ public class CalculoIMC {
 	}
 	
 	public static void main(String[] args) {
-		CalculoIMC c = new CalculoIMC();
+		new CalculoIMC();
 	}
 
 }

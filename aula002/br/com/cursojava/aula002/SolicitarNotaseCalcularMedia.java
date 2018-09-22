@@ -21,6 +21,6 @@ public class SolicitarNotaseCalcularMedia {
 	}
 	
 	public static void main(String[] args) {
-		SolicitarNotaseCalcularMedia s = new SolicitarNotaseCalcularMedia();
+		new SolicitarNotaseCalcularMedia();
 	}
 }

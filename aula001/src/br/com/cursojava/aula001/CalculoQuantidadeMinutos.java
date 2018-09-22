@@ -20,6 +20,6 @@ public class CalculoQuantidadeMinutos {
 	}
 	
 	public static void main(String[] args) {
-		CalculoQuantidadeMinutos c = new CalculoQuantidadeMinutos();
+		new CalculoQuantidadeMinutos();
 	}
 }

@@ -17,6 +17,6 @@ public class CalculoAreaRetangulo {
 	}
 	
 	public static void main(String[] args) {
-		CalculoAreaRetangulo c = new CalculoAreaRetangulo();
+		new CalculoAreaRetangulo();
 	}
 }

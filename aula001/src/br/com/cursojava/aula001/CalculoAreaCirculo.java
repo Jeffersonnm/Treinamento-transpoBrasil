@@ -39,7 +39,7 @@ public class CalculoAreaCirculo {
 	
 	
 	public static void main(String[] args) {
-		CalculoAreaCirculo c = new CalculoAreaCirculo();
+		new CalculoAreaCirculo();
 	}
 
 }

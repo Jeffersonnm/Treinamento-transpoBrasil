@@ -19,7 +19,7 @@ public class ImprimeMenorNumero {
 	}
 	
 	public static void main(String[] args) {
-		ImprimeMenorNumero i = new ImprimeMenorNumero();
+		new ImprimeMenorNumero();
 	
 	}	
 }

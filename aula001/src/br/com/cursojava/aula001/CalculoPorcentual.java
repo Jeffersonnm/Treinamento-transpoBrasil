@@ -13,6 +13,6 @@ public class CalculoPorcentual {
 	}
 	
 	public static void main(String[] args) {
-		CalculoPorcentual c = new CalculoPorcentual();
+		new CalculoPorcentual();
 	}
 }

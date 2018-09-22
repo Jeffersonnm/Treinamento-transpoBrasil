@@ -19,7 +19,7 @@ public class ImprimeMaiorNumero {
 	}
 	
 	public static void main(String[] args) {
-		ImprimeMaiorNumero i = new ImprimeMaiorNumero();
+		new ImprimeMaiorNumero();
 	
 	}	
 

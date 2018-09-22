@@ -27,6 +27,6 @@ public class ArmazenarTresNotas {
 		return notas;
 	}
 	public static void main(String[] args) {
-		ArmazenarTresNotas a = new ArmazenarTresNotas();
+		new ArmazenarTresNotas();
 	}
 }

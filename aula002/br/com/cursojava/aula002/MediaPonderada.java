@@ -27,6 +27,6 @@ public class MediaPonderada {
 	}
 
 	public static void main(String[] args) {
-		MediaPonderada m = new MediaPonderada();
+		new MediaPonderada();
 	}
 }

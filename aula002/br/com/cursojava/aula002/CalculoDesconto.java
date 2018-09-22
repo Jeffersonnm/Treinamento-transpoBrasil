@@ -27,6 +27,6 @@ public class CalculoDesconto {
 	}
 	
 	public static void main(String[] args) {
-		CalculoDesconto c = new CalculoDesconto();
+		new CalculoDesconto();
 	}
 }

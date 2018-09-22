@@ -18,6 +18,6 @@ public class Potencia {
 	
 	
 	public static void main(String[] args) {
-		Potencia p = new Potencia();
+		new Potencia();
 	}
 }

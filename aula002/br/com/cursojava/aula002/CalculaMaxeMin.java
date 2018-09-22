@@ -21,6 +21,6 @@ public class CalculaMaxeMin {
 	}
 	
 	public static void main(String[] args) {
-		CalculaMaxeMin c = new CalculaMaxeMin();
+		new CalculaMaxeMin();
 	}
 }

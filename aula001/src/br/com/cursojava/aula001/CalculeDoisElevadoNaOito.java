@@ -12,7 +12,7 @@ public class CalculeDoisElevadoNaOito {
 	}
 	
 	public static void main(String[] args) {
-		CalculeDoisElevadoNaOito c = new CalculeDoisElevadoNaOito();
+		new CalculeDoisElevadoNaOito();
 	}
 
 }

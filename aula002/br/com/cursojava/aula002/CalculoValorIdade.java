@@ -19,6 +19,6 @@ public class CalculoValorIdade {
 	}
 	
 	public static void main(String[] args) {
-		CalculoValorIdade c = new CalculoValorIdade();
+		new CalculoValorIdade();
 	}
 }
