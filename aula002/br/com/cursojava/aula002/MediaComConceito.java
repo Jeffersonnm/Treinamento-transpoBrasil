@@ -18,6 +18,7 @@ public class MediaComConceito {
 		nota4 = pedeDados("Informe nota 4");
 		media = (nota1 + nota2 + nota3 + nota4) / 4;
 		conceito = conceito();
+		System.out.println(media);
 		System.out.println(conceito);
 	}
 	

@@ -16,6 +16,7 @@ public class VerificarAprovacao {
 		nota2 = pedeDados("Informe nota 2");
 		nota3 = pedeDados("Informe nota 3");
 		media = (nota1+nota2+nota3)/3;
+		System.out.println(media);
 		System.out.println(resultado());
 	}
 	
